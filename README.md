@@ -69,6 +69,7 @@
 - **Stateless**: A lightweight state machine library for .NET applications. [GitHub](https://github.com/dotnet-state-machine/stateless)
 
 ## AI
+- **OllamaSharp**: The easiest way to use the Ollama API in .NET. [GitHub](https://github.com/awaescher/OllamaSharp)
 - **LLamaSharp**: A library for local language models in .NET applications. [GitHub](https://github.com/SciSharp/LLamaSharp)
 - **OpenAI**: A library for accessing OpenAI's API from .NET applications. [GitHub](https://github.com/openai/openai-dotnet)
 - **Semantic Kernel**: A library for integrating AI into .NET applications. [GitHub](https://github.com/microsoft/semantic-kernel)
